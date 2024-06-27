@@ -1,0 +1,74 @@
+.mainNavigation {
+    color: black;
+    background-color: red;
+}
+
+.mainNavigation a{
+    font-size: 2rem;
+    margin: 20px;
+}
+img{
+    width: 350px;
+    height: 300px;
+    float: left;
+}
+
+.playerDiv {
+    background-color: deeppink;
+    width: 1200px;
+    height: 600px;
+    padding: 20px;
+    border: 20px groove white;
+    box-shadow: 10px 10px 10px black;
+    border-radius: 20px;
+    display: inline-block;
+    margin: 20px;
+    
+
+}
+.home {
+    color: black;
+    background-color: red;
+    display: inline;
+    padding: 10px;
+}
+ h2 {
+     color: green;
+}
+.playerDiv1 {
+    background-color: yellow;
+    
+}
+.playerdiv2 {
+    background-color: aqua;
+    
+}
+.playerdiv3 {
+    background-color: black;
+    
+}
+.playerdiv4 {
+    background-color: blue;
+    
+}
+.playerdiv5 {
+    background-color: black;
+    
+}
+
+
+.playerDiv  p {
+    text-align: justify;
+}
+
+.palyerpic {
+    width: 300px;
+}
+.para {
+    width: 700px;
+    height: 300px;
+    display: inline-block;
+    overflow: scroll;
+    background-color: red;
+    
+}
